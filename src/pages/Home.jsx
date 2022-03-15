@@ -8,7 +8,7 @@ import styled from 'styled-components'
 import {mobile, tablet} from '../responsive'
 
 const Container = styled.div`
-background-color:teal;
+background-color:#f1f8fc;
 color:#000;
 ${mobile({
   backgroundColor:'teal',
